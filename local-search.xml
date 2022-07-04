@@ -16,18 +16,5 @@
   
   
   
-  <entry>
-    <title>测试 wb</title>
-    <link href="/2022/07/03/%E6%B5%8B%E8%AF%95%20wb/"/>
-    <url>/2022/07/03/%E6%B5%8B%E8%AF%95%20wb/</url>
-    
-    <content type="html"><![CDATA[<p>测试 web hoo</p><ol><li>继续</li><li>23123123123</li><li>41234123123213</li></ol><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs javascript"><span class="hljs-keyword">function</span> <span class="hljs-title function_">test</span>(<span class="hljs-params"></span>) &#123;<br>  <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">&quot;123123&quot;</span>);<br>&#125;<br></code></pre></td></tr></table></figure>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
   
 </search>
